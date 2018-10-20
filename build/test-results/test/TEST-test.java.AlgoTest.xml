@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2018-10-20T07:29:19" hostname="LAPTOP-LTON7PEV" time="0.015">
+  <properties/>
+  <testcase name="testMergeSortDuplicates" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="testMergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelectionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuickSortEmpty" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubbleSortDuplicates" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeapSortDuplicates" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuickSortDuplicates" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubbleSortedArray" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelectionSortDuplicates" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelectionSortEmpty" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeapSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuickSortSpecialCase" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testInsertionSortDuplicates" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeapSortEmpty" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testMergeSortEmpty" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="testBubbleSortSingleElement" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testInsertionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuickSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testInsertionSortEmpty" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testBubbleSortEmpty" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
