@@ -129,9 +129,9 @@ public class AlgoTest {
 	 */
 	@Test
 	public void testBubbleSortEmpty() {
-		Item[] d=null;
+		Item[] myArr=null;
 		try {
-			SortAlgos.bubbleSort(d);
+			SortAlgos.bubbleSort(myArr);
 		}catch(Throwable exception) {
 			assertEquals(NullPointerException.class, exception.getClass());
 		}
